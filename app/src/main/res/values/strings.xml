@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test01</string>
+    <string name="text2">activity main 2</string>
+    <string name="btn2">t跳转回activity1</string>
+</resources>
