@@ -13,11 +13,20 @@
         android:theme="@style/Theme.Test01"
         tools:targetApi="31">
 <!--        <activity-->
-<!--            android:name=".ImageView"-->
+<!--            android:name=".EditText"-->
 <!--            android:exported="false" />-->
          <activity
-         android:name=".Click"
+         android:name=".RadioButton"
          android:exported="false" />
+        <activity
+            android:name=".Computer"
+            android:exported="false" />
+        <activity
+            android:name=".ImageView"
+            android:exported="false" />
+        <activity
+            android:name=".Click"
+            android:exported="false" />
         <activity
             android:name=".ScrollView"
             android:exported="false" />
@@ -28,7 +37,7 @@
             android:name=".MainActivity2"
             android:exported="true" />
         <activity
-            android:name=".ImageView"
+            android:name=".Edittext"
             android:exported="true">
 
             <!-- 主activity才需要配置intent-filter -->

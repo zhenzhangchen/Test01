@@ -20,6 +20,7 @@ public class MainActivity2 extends AppCompatActivity {
                 Intent intent = new Intent();
                 intent.setClass(MainActivity2.this,MainActivity.class);
                 startActivity(intent);
+                // finish(); //两者等价
             }
         });
     }
