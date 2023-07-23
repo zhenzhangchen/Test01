@@ -23,5 +23,7 @@
     <string name="btn_two">2</string>
     <string name="btn_one">1</string>
     <string name="btn_zero">0</string>
+    <string name="btn_save">保存信息</string>
+    <string name="btn_delete">删除保存的信息</string>
 
 </resources>
