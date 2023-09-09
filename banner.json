@@ -2,6 +2,25 @@
   "code": 0,
   "message": "OK",
   "data": [
+      {
+      "imageList": [
+        "https://i8.mifile.cn/v1/a1/251f0880-423e-fa2d-3c18-1d3ec23f9912.webp",
+        "https://i8.mifile.cn/v1/a1/49dfd019-9504-abb5-34bb-26f425b67e45.webp",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b9540da01aef9a00a5c640b1c98b955a.jpg"
+      ],
+      "type": "banner",
+      "title": ""
+    },
+     {
+      "imageList": [
+        "https://i8.mifile.cn/v1/a1/251f0880-423e-fa2d-3c18-1d3ec23f9912.webp",
+        "https://i8.mifile.cn/v1/a1/49dfd019-9504-abb5-34bb-26f425b67e45.webp",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b9540da01aef9a00a5c640b1c98b955a.jpg",
+        "https://i8.mifile.cn/v1/a1/251f0880-423e-fa2d-3c18-1d3ec23f9912.webp"
+      ],
+      "type": "activation",
+      "title": "活动玩法"
+    },
     {
       "imageList": [
         "https://i8.mifile.cn/v1/a1/251f0880-423e-fa2d-3c18-1d3ec23f9912.webp",
